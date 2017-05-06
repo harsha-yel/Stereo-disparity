@@ -1,0 +1,16 @@
+﻿  Source.cpp
+e:\image processing\project-1\final\code\stereo_disparity\stereo_disparity\source.cpp(24): warning C4244: '=': conversion from 'int64' to 'unsigned long', possible loss of data
+e:\image processing\project-1\final\code\stereo_disparity\stereo_disparity\source.cpp(46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\image processing\project-1\final\code\stereo_disparity\stereo_disparity\source.cpp(47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\image processing\project-1\final\code\stereo_disparity\stereo_disparity\source.cpp(92): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\image processing\project-1\final\code\stereo_disparity\stereo_disparity\source.cpp(93): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\image processing\project-1\final\code\stereo_disparity\stereo_disparity\source.cpp(94): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\image processing\project-1\final\code\stereo_disparity\stereo_disparity\source.cpp(101): warning C4215: nonstandard extension used: long float
+e:\image processing\project-1\final\code\stereo_disparity\stereo_disparity\source.cpp(144): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+e:\image processing\project-1\final\code\stereo_disparity\stereo_disparity\source.cpp(146): warning C4244: '=': conversion from 'int64' to 'unsigned long', possible loss of data
+e:\image processing\project-1\final\code\stereo_disparity\stereo_disparity\source.cpp(188): warning C4305: '=': truncation from 'double' to 'float'
+e:\image processing\project-1\final\code\stereo_disparity\stereo_disparity\source.cpp(189): warning C4305: '=': truncation from 'double' to 'float'
+e:\image processing\project-1\final\code\stereo_disparity\stereo_disparity\source.cpp(190): warning C4305: '=': truncation from 'double' to 'float'
+e:\image processing\project-1\final\code\stereo_disparity\stereo_disparity\source.cpp(192): warning C4305: '=': truncation from 'double' to 'float'
+  Stereo_disparity.vcxproj -> E:\Image processing\Project-1\Final\Code\Stereo_disparity\x64\Debug\Stereo_disparity.exe
+  Stereo_disparity.vcxproj -> E:\Image processing\Project-1\Final\Code\Stereo_disparity\x64\Debug\Stereo_disparity.pdb (Full PDB)
